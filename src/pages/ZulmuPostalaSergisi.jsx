@@ -10,7 +10,7 @@ const ZulmuPostalaSergisi = () => {
   return (
     <div className="sergi-wrapper">
       <div className="sergi-header">
-        <h2>Zulmü Postala Sergisi</h2>
+        <h2>Zulmü Postala Kataloğu</h2>
       </div>
 
       <div className="pdf-card-container">
