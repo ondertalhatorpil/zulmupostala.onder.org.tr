@@ -25,7 +25,6 @@ const OnderNavigation = () => {
       }
     };
   
-    // Menü elemanlarını bir array olarak tanımlamak kod tekrarını azaltır
     const menuItems = [
       { id: 'generateImage', label: 'Sertifika Oluştur' },
       { id: 'sergi', label: 'Zulmü Postala Kataloğu' },
