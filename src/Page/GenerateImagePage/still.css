@@ -40,9 +40,10 @@
 }
 
 .ser-title {
+    text-align: left;
     font-size: 42px;
     font-weight: 800;
-    color: #222;
+    color: #8d1111;
     margin: 0;
     letter-spacing: -1px;
 
